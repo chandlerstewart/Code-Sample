@@ -6,7 +6,7 @@ I am aware that the samples I am providing in no way show perfect code, as that 
 
 -----------------------------------------
 
-The classes displayed show a piece of the upgrades system I am implementing in my game, similar to the talent system in many RPGs.
+The classes displayed show a piece of the upgrades system I am implementing in my game, similar to the talent system in many RPGs. The recommended viewing order is below:
 
 1. Upgrade - Base Class for Upgrades to hold the data of each individual upgrade.
 2. All_Upgrades - Creation of each upgrade
